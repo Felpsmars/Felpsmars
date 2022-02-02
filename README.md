@@ -2,11 +2,9 @@
 <h2 align="center">You can reach me at :alien: :</h2>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/gg_gabiru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/livegabiru" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G5Uqx3aW8U" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "gabrielsampaiobicalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-sampaio-bicalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/felps.mars/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mfelipeluiz99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-luiz-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
@@ -15,7 +13,7 @@
 <p align="center">"- ⚡ Quick bio:      I love to code, game and cook<br>
 		🔭 I’m currently working on:      Back-End at Trybe<br>
 		🌱 I’m currently learning:        Learning some Back-End, Node.js, MySQL, Docker, mongoDB<br>
-    ⚡ I’m currently working to become a better web developer full-stack!
+    		⚡ I’m currently working to become a better web developer full-stack!
 		💬 Ask me about:                  code, music, gaming, food and cooking<br>
 </p>
 
