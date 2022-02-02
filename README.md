@@ -1,6 +1,5 @@
-### Welcome to my profile 👋👋
-
-### You can reach me at :alien: :
+<h2 align="center">Welcome to my profile 👋👋</h2>
+<h2 align="center">You can reach me at :alien: :</h2>
 
 <div align="center"> 
   <a href="https://www.instagram.com/gg_gabiru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,7 +11,7 @@
  
 </div>
 
-### About me:
+<h2 align="center">About me:</h2>
 <p align="center">"- ⚡ Quick bio:      I love to code, game and cook<br>
 		🔭 I’m currently working on:      Back-End at Trybe<br>
 		🌱 I’m currently learning:        Learning some Back-End, Node.js, MySQL, Docker, mongoDB<br>
@@ -20,7 +19,7 @@
 		💬 Ask me about:                  code, music, gaming, food and cooking<br>
 </p>
 
-### My toolbox:
+<h2 align="center">My toolbox:</h2>
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <div style="display: inline_block"><br>
   <img allign="center" alt="html-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
