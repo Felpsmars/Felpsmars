@@ -56,8 +56,6 @@ src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-
 
 </br>
 
-<p align="center">Github stats :bar_chart:</p>
-
 <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{felpsmars}/count.svg" alt="Felpsmars :: Visitor's Count" /></p>
