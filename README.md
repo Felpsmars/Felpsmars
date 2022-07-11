@@ -48,13 +48,17 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  alt="MongoDB"/>    
+
+  <img height="40" width="80"    
+src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png"
+        alt="MongoDB"/> 
 </div>
 
 </br>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<p align="center">Github stats :bar_chart:</p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{felpsmars}/count.svg" alt="Felpsmars :: Visitor's Count" /></p>
 
