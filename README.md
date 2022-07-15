@@ -2,11 +2,18 @@
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
+<h2 align="center">You can reach me at 📱</h2>
+
+
+<div align="center"> 
+  <a href = "mfelipeluiz99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-luiz-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
 
 <h2 align="center">About me:</h2>
 <p align="center"> 
-		👨‍🍳 👨‍💻 Quick bio:      I love to code, game and cook<br>
+		👨‍🍳 👨‍💻 Quick bio:      I love to code, game and cook
 		🔭 I’m currently working on: Python<br>
     		⚡ I’m currently working to become a better web developer full-stack!
 		💬 Ask me about: code, music, gaming, food and cooking<br>
@@ -59,17 +66,9 @@ src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-
 
 <p align="center"><img src="https://profile-counter.glitch.me/{felpsmars}/count.svg" alt="Felpsmars :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsmars&langs_count=10&theme=chartreuse-dark&layout=compact" alt="felpsmars :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felpsmars&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
-
-<h2 align="center">You can reach me at 📱</h2>
-
-
-<div align="center"> 
-  <a href = "mfelipeluiz99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-luiz-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <div style="display: flex;">
+    	<img src="https://github-readme-stats.vercel.app/api?username=felpsmars&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsmars&langs_count=10&theme=chartreuse-dark&layout=compact" alt="felpsmars :: Top Langs" />
+  </div>
+</div>
