@@ -79,8 +79,6 @@ src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-
 </pre>
 </details>
 
-A=====================================================================================================================================
-
 <p align='center'>
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
