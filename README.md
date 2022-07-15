@@ -144,7 +144,7 @@ src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-
 <p align="center"><img src="https://profile-counter.glitch.me/{felpsmars}/count.svg" alt="Felpsmars :: Visitor's Count" /></p>
 
 <div align="center">
-  <div style="max-width: 100%" style="display: flex;">
+  <div style="width: 100%" style="display: flex;">
     	<img src="https://github-readme-stats.vercel.app/api?username=felpsmars&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsmars&langs_count=10&theme=chartreuse-dark&layout=compact" alt="felpsmars :: Top Langs" />
   </div>
