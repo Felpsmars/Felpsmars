@@ -62,6 +62,10 @@ src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-
 
 <p align="center"><img src="https://profile-counter.glitch.me/{felpsmars}/count.svg" alt="Felpsmars :: Visitor's Count" /></p>
 
-   <img src="https://github-readme-stats.vercel.app/api?username=felpsmars&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsmars&langs_count=10&theme=chartreuse-dark&layout=compact" alt="felpsmars :: Top Langs" />
+<div align="center">
+  <div style="display: flex;">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpsmars&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsmars&langs_count=10&theme=chartreuse-dark&layout=compact" alt="felpsmars :: Top Langs" />
+  </div>
+</div>
 
